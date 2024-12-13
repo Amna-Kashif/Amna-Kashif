@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amna Kashif</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartcoding.co.in%2Fpage%2F189%2F%3Fpaged%3D189&psig=AOvVaw2O_8HmxqCPdU3hsqElChVf&ust=1734187644854000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDl7t3-pIoDFQAAAAAdAAAAABAE](https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif)">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amna-kashif&label=Profile%20views&color=0e75b6&style=flat" alt="amna-kashif" /> </p>
 
