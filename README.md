@@ -5,11 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amna-kashif&label=Profile%20views&color=0e75b6&style=flat" alt="amna-kashif" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS and Mern Stack**
 
 - 💬 Ask me about **Vanilla JS**
 
 - 📫 How to reach me **amnakashif1403@gmail.com**
+
+- 🧑🏻‍💻 All of my projects are available at
+**https://quack-debt.surge.sh/**
 
 - ⚡ Fun fact **Innovator 💡**
 
