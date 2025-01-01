@@ -12,7 +12,7 @@
 - 📫 How to reach me **amnakashif1403@gmail.com**
 
 - 🧑🏻‍💻 All of my projects are available at
-**https://quack-debt.surge.sh/**
+**disgusting-tomatoes.surge.sh**
 
 - ⚡ Fun fact **Innovator 💡**
 
