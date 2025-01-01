@@ -12,7 +12,7 @@
 - 📫 How to reach me **amnakashif1403@gmail.com**
 
 - 🧑🏻‍💻 All of my projects are available at
-**disgusting-tomatoes.surge.sh**
+**https://disgusting-tomatoes.surge.sh/**
 
 - ⚡ Fun fact **Innovator 💡**
 
