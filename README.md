@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS and Mern Stack**
 
-- 💬 Ask me about **Vanilla JS**
+- 💬 Ask me about **HTML, CSS and JS**
 
 - 📫 How to reach me **amnakashif1403@gmail.com**
 
