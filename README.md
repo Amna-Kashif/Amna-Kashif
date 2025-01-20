@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amnakashif1403@gmail.com**
 
-- 🧑🏻‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at
 **https://your-new-url.surge.sh/**
 
 - ⚡ Fun fact **Innovator 💡**
