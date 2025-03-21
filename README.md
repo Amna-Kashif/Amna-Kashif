@@ -53,7 +53,7 @@
     </a>  <!-- Tailwind CSS -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" 
-             alt="tailwindcss" width="60" height="60"/>
+             alt="tailwindcss" width="40" height="40"/>
     </a> 
 </p>
 
