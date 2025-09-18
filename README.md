@@ -12,7 +12,7 @@
 <li>🌱 I’m currently learning <strong>Next JS</strong></li>
 <li>💬 Ask me about <strong>MERN Stack</strong></li>
 <li>📫 How to reach me: <strong>amnakashif1403@gmail.com</strong></li>
-<li>👨‍💻 All of my projects are available at: <a href="https://amna-kashif14.vercel.app/" target="_blank" rel="noreferrer"><strong>amna-kashif14.vercel.app</strong></a></li>
+<li>👨‍💻 All of my projects are available at: <a href="https://amna-kashif.netlify.app/" target="_blank" rel="noreferrer"><strong>amna-kashif.netlify.app</strong></a></li>
 <li>⚡ Fun fact: <strong>Innovator 💡</strong></li>
 
 </ul>
