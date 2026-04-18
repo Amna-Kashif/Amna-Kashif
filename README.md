@@ -2,7 +2,6 @@
 <h3 align="center">A PASSIONATE MERN STACK DEVELOPER</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-<br clear="both">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amna-kashif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
