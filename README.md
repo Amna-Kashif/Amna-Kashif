@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools ⚙️🔧 :</h3>
-<p align="left"> 
+<div display="flex" align="left"> 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -84,7 +84,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amna-kashif&show_icons=true&locale=en&layout=compact" alt="amna-kashif" />
