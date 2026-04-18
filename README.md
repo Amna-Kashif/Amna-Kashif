@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualaikum 👋, I'm Amna Kashif</h1>
 <h3 align="center">A PASSIONATE MERN STACK DEVELOPER</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<a align="right" alt="coding" width="400" href="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amna-kashif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools ⚙️🔧 :</h3>
-<!-- <p align="left">  -->
+<p align="left"> 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -84,7 +84,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-<!-- </p> -->
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amna-kashif&show_icons=true&locale=en&layout=compact" alt="amna-kashif" />
